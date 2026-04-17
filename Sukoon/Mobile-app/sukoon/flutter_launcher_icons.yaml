@@ -1,0 +1,5 @@
+android: true
+ios: true
+image_path: "assets/logo.jpeg"
+adaptive_icon_background: "#FAF5EE"
+adaptive_icon_foreground: "assets/logo.jpeg"

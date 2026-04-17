@@ -1,0 +1,39 @@
+﻿[ΓêÜ] Flutter (Channel stable, 3.38.6, on Microsoft Windows [Version 10.0.26200.8037], locale en-US) [385ms]
+    ΓÇó Flutter version 3.38.6 on channel stable at C:\Users\bourb\Desktop\Flutter\flutter
+    ΓÇó Upstream repository https://github.com/flutter/flutter.git
+    ΓÇó Framework revision 8b87286849 (3 months ago), 2026-01-08 10:49:17 -0800
+    ΓÇó Engine revision 78fc3012e4
+    ΓÇó Dart version 3.10.7
+    ΓÇó DevTools version 2.51.1
+    ΓÇó Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, omit-legacy-version-file, enable-lldb-debugging
+
+[ΓêÜ] Windows Version (11 Pro 64-bit, 25H2, 2009) [890ms]
+
+[ΓêÜ] Android toolchain - develop for Android devices (Android SDK version 36.1.0) [1,933ms]
+    ΓÇó Android SDK at C:\Users\bourb\AppData\Local\Android\sdk
+    ΓÇó Emulator version 36.3.10.0 (build_id 14472402) (CL:N/A)
+    ΓÇó Platform android-36, build-tools 36.1.0
+    ΓÇó Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    ΓÇó Java version OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+    ΓÇó All Android licenses accepted.
+
+[ΓêÜ] Chrome - develop for the web [189ms]
+    ΓÇó Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[!] Visual Studio - develop Windows apps (Visual Studio Build Tools 2019 16.11.51) [188ms]
+    ΓÇó Visual Studio at C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
+    ΓÇó Visual Studio Build Tools 2019 version 16.11.36422.26
+    X The current Visual Studio installation is incomplete.
+      Please use Visual Studio Installer to complete the installation or reinstall Visual Studio.
+
+[ΓêÜ] Connected device (3 available) [180ms]
+    ΓÇó Windows (desktop) ΓÇó windows ΓÇó windows-x64    ΓÇó Microsoft Windows [Version 10.0.26200.8037]
+    ΓÇó Chrome (web)      ΓÇó chrome  ΓÇó web-javascript ΓÇó Google Chrome 146.0.7680.165
+    ΓÇó Edge (web)        ΓÇó edge    ΓÇó web-javascript ΓÇó Microsoft Edge 146.0.3856.84
+
+[ΓêÜ] Network resources [424ms]
+    ΓÇó All expected network resources are available.
+
+! Doctor found issues in 1 category.

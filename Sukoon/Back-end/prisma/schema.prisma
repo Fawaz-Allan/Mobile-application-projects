@@ -1,0 +1,29 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Bay {
+  id          Int       @id
+  isAvailable Boolean   @default(true)
+  sessions    Session[]
+}
+
+model Session {
+  id           Int      @id @default(autoincrement())
+  serialNumber String   @unique
+  bay          Bay      @relation(fields: [bayId], references: [id])
+  bayId        Int
+  chargeType   String
+  batteryLevel Int      @default(0)
+  status       String   @default("active") // "active", "completed"
+  language     String   @default("EN") // "AR", "EN"
+  createdAt    DateTime @default(now())
+}

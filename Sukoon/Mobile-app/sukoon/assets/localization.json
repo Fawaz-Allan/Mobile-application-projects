@@ -1,0 +1,30 @@
+{
+  "EN": {
+    "welcome": "Welcome to Sukoon",
+    "selectCharging": "Select your charging type",
+    "superCharge": "Superfast Charge",
+    "proceedToBay": "Please proceed to Bay",
+    "yourQueue": "Your queue",
+    "chargingQuietly": "Your car is charging quietly...",
+    "chargeComplete": "Charge Complete",
+    "chargedRenewed": "Charged ... and Renewed",
+    "backHome": "BACK TO HOME",
+    "stationBusy": "Station Busy",
+    "exploreAmenities": "Explore amenities in 10 seconds...",
+    "welcomeBack": "Welcome Back"
+  },
+  "AR": {
+    "welcome": "مرحباً بك في سكون",
+    "selectCharging": "اختر نوع الشحن المناسب لك",
+    "superCharge": "الشحن الفائق DC",
+    "proceedToBay": "يرجى التوجه للموقف رقم",
+    "yourQueue": "دورك",
+    "chargingQuietly": "سيارتك تشحن بهدوء...",
+    "chargeComplete": "اكتمل الشحن",
+    "chargedRenewed": "مشحون ... ومُجدد",
+    "backHome": "العودة للرئيسية",
+    "stationBusy": "المحطة مشغولة",
+    "exploreAmenities": "استكشف الخدمات خلال 10 ثوانٍ...",
+    "welcomeBack": "أهلاً بك مجدداً"
+  }
+}
