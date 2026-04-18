@@ -1,0 +1,51 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+**/*.original_bak
+**/flutter_export_environment.sh
+**/gradle-wrapper.properties
+**/gradlew
+**/gradlew.bat
+**/local.properties
+**/GeneratedPluginRegistrant.java
+.gradle/
+
+# iOS/macOS
+**/Pods/
+**/.generated/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/ServiceDefinitions.json
+**/Runner/GeneratedPluginRegistrant.h
+**/Runner/GeneratedPluginRegistrant.m
+**/DerivedData/
+*.moved-aside
+*.xcuserstate
+*.xcworkspace
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Sensitive
+.env*
+
+# Logs
+*.log
+analysis_output.txt
+analysis_results.txt
+analyze_results.txt
+chrome_debug_output.txt
+chrome_output.txt
+doctor_output.txt
+doctor_output_utf8.txt
